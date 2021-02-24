@@ -1,6 +1,8 @@
 # suranime.
 # save this file on your main blog.
 # Place it at the top </body>.
+# Convert Github.
+https://cdn.jsdelivr.net/gh/[username]/[Repositories]/autosafelink.js
 
 <!-- Safelink -->  
 <script type='text/javascript'>
